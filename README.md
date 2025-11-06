@@ -3,6 +3,8 @@
 ### **Appie-App Project**
 
 This document provides comprehensive documentation for the "Appie-App" project, an open-source, front-end landing page template available on GitHub.
+<img width="1680" height="770" alt="image" src="https://github.com/user-attachments/assets/ffa5f3b6-3432-4189-a136-154cc84baef3" />
+
 
 ### **1. Project Overview**
 
